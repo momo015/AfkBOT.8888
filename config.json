@@ -1,0 +1,9 @@
+{
+	"ip":"DuGue.aternos.me",
+	"port": 39981,
+	"name": "afkbot2",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register (type_ur_pass_here(remember_no_spaces)) (type_ur_pass_here(remember_no_spaces))",
+	"login-cmd":"/login (type_ur_pass_here)"
+}
